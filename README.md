@@ -1,6 +1,6 @@
 # Sample Multi-module project for Apache Sling
 
-This is a project template for apache Sling based applications. It is built with 'Sling Multimodule Archetype' and is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
+This is a project template for apache Sling based applications. It is built with 'Sling Multimodule Archetype' (Request [193](https://github.com/apache/sling/pull/193) is under review by Apache Sling team) and is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
 
 The main parts of the project are:
